@@ -1,0 +1,3 @@
+﻿  ReaderApplication.cpp
+C:\Users\Evgeny\source\repos\LabWork_4\ReaderApplication\ReaderApplication\ReaderApplication.cpp(24,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ReaderApplication.vcxproj -> C:\Users\Evgeny\source\repos\LabWork_4\ReaderApplication\Debug\ReaderApplication.exe

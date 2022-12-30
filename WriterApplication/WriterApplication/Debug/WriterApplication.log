@@ -1,0 +1,3 @@
+﻿  WriterApplication.cpp
+C:\Users\Evgeny\source\repos\LabWork_4\WriterApplication\WriterApplication\WriterApplication.cpp(22,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  WriterApplication.vcxproj -> C:\Users\Evgeny\source\repos\LabWork_4\WriterApplication\Debug\WriterApplication.exe

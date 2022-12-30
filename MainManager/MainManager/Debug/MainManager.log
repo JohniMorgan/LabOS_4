@@ -1,0 +1,3 @@
+﻿  MainManager.cpp
+C:\Users\Evgeny\source\repos\LabWork_4\MainManager\MainManager\MainManager.cpp(34,61): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+  MainManager.vcxproj -> C:\Users\Evgeny\source\repos\LabWork_4\MainManager\Debug\MainManager.exe
